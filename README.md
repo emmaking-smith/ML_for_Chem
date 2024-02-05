@@ -5,4 +5,4 @@ Hello All!  Thank you for taking the time out of your day to be guinea pigs for 
 
 **UPDATE 5 FEB 2024:** Lecture recordings will be uploaded to the Lecture_Recordings folder.
 
-If any of you would like to get in touch we me, please feel free to email at: esk[at]cam.ac.uk.
+If any of you would like to get in touch with me, please feel free to email at: esk34[at]cam.ac.uk.
