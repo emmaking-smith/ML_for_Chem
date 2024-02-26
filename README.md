@@ -7,6 +7,8 @@ Hello All!  Thank you for taking the time out of your day to be guinea pigs for 
 
 **UPDATE 19 FEB 2024** We are a bit behind schedule for those who are following the repo. Lecture 2's materials (12 Feb) were covered over 2 sessions. Hence the live demo for Lecture 2 was covered on 19 Feb instead of 12 Feb.
 
+**UPDATE 26 FEB 2024** This [link](https://distill.pub/2019/visual-exploration-gaussian-processes/) takes you to the interactive Gaussian Processes. Apologies for those attending virtually, we had some technical difficulties today and some of the lecture was not recorded. Feel free to email me with any questions.
+
 If any of you would like to get in touch with me, please feel free to email at: esk34[at]cam.ac.uk.
 
 
