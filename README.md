@@ -9,6 +9,8 @@ Hello All!  Thank you for taking the time out of your day to be guinea pigs for 
 
 **UPDATE 26 FEB 2024** This [link](https://distill.pub/2019/visual-exploration-gaussian-processes/) takes you to the interactive Gaussian Processes. Apologies for those attending virtually, we had some technical difficulties today and some of the lecture was not recorded. Feel free to email me with any questions.
 
+**UPDATE 27 FEB 2024** The [dataset that we are using](https://github.com/doylelab/rxnpredict/blob/master/data_table.csv) in the live demos (and preworked demos) has now been uploaded to the Live_Demos and Preworked_Demo folders.
+
 If any of you would like to get in touch with me, please feel free to email at: esk34[at]cam.ac.uk.
 
 
